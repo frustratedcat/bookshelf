@@ -7,9 +7,9 @@ html {
 
 .header-container {
     display: flex;
-    margin: 10px;
     border: solid black 2px;
-    padding: 20px;
+    padding: 30px;
+    background-color: rgb(85, 169, 247);
 }
 
 .header-insta {
