@@ -5,7 +5,6 @@ html {
         box-sizing: inherit;
   }
 
-
 body {
     background-color: rgb(225, 240, 255);
 }
@@ -13,12 +12,18 @@ body {
 .header-container {
     display: flex;
     border: solid black 2px;
-    padding: 30px;
+    padding: 25px;
     background-color: rgb(85, 169, 247);
+    font-size: 20px;
+    font-weight: 900;
+    justify-content: space-between;
 }
 
-.header-insta {
-    margin-right: auto;
+.header-nav {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
 }
 
 .container {
