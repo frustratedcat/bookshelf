@@ -7,7 +7,9 @@ html {
 
 .header-container {
     display: flex;
-    margin: 30px;
+    margin: 10px;
+    border: solid black 2px;
+    padding: 20px;
 }
 
 .header-insta {
@@ -21,13 +23,23 @@ html {
 
 img {
     height: auto;
-    width: 100px;
+    width: 150px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 32px;
 }
 
 .books-container {
-
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    flex-wrap: wrap;
+    flex: initial;
 }
 
 .info {
-
+    max-width: 150px;
 }
