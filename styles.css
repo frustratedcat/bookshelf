@@ -5,6 +5,11 @@ html {
         box-sizing: inherit;
   }
 
+
+body {
+    background-color: rgb(225, 240, 255);
+}
+
 .header-container {
     display: flex;
     border: solid black 2px;
