@@ -13,3 +13,21 @@ html {
 .header-insta {
     margin-right: auto;
 }
+
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 100px;
+}
+
+.books-container {
+
+}
+
+.info {
+
+}
