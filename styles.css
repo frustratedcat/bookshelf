@@ -19,7 +19,7 @@ a:link {
     display: flex;
     border: solid black 2px;
     padding: 25px;
-    background-color: rgb(28, 113, 28);
+    background-color: rgb(3, 77, 168);
     font-size: 20px;
     font-weight: 900;
     justify-content: space-between;
@@ -76,7 +76,7 @@ img {
     display: flex;
     border: solid black 2px;
     padding: 5px 25px 5px 25px;
-    background-color: rgb(28, 113, 28);
+    background-color: rgb(3, 77, 168);
     font-size: 13px;
     font-weight: 900;
     justify-content: space-between;
