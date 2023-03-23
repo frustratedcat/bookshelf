@@ -19,7 +19,7 @@ a:link {
     display: flex;
     border: solid black 2px;
     padding: 25px;
-    background-color: rgb(37, 128, 240);
+    background-color: rgb(28, 113, 28);
     font-size: 20px;
     font-weight: 900;
     justify-content: space-between;
@@ -60,10 +60,38 @@ img {
     display: flex;
     justify-content: center;
     gap: 52px;
+    column-gap: 10%;
     flex-wrap: wrap;
     flex: initial;
+    margin: 0% 10% 0% 10%;
 }
 
 .info {
     max-width: 150px;
+}
+
+.footer-container {
+    display: flex;
+    border: solid black 2px;
+    padding: 5px 25px 5px 25px;
+    background-color: rgb(28, 113, 28);
+    font-size: 13px;
+    font-weight: 900;
+    justify-content: space-between;
+    flex: initial;
+    gap: 16px;
+    max-width: 100%;
+    margin-top: 32px;
+}
+
+.footer-nav {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+a.footer-color {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
 }
