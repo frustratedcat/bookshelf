@@ -9,22 +9,35 @@ body {
     background-color: rgb(225, 240, 255);
 }
 
+a:link {
+    text-decoration: none;
+    color: rgb(3, 10, 41);
+    font-weight: 300;
+}
+
 .header-container {
     display: flex;
     border: solid black 2px;
     padding: 25px;
-    background-color: rgb(85, 169, 247);
+    background-color: rgb(37, 128, 240);
     font-size: 20px;
     font-weight: 900;
     justify-content: space-between;
     flex: initial;
     gap: 16px;
+    max-width: 100%;
 }
 
 .header-nav {
     display: flex;
     margin: 0;
     padding: 0;
+}
+
+a.nav-color {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
 }
 
 .container {
