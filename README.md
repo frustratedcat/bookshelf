@@ -1,2 +1,2 @@
 # bookshelf
-A virtual bookshelf
+A virtual bookshelf. Images from Amazon.com.
